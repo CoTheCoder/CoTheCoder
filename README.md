@@ -9,12 +9,16 @@ Cybersecurity student building hands-on skills for a career in security operatio
 - :round_pushpin: Based in the Dallas-Fort Worth area, targeting SOC Analyst (Level 1) roles
 
 ## What I'm Working On
-- [ ] pfsense firewall configuration
-- [ ] Active Directory attack/defense lab
-- [ ] SIEM deployment and log analysis 
+- [x] [Proxmox Install](https://github.com/CoTheCoder/soc-homelab/tree/main/proxmox-install)
+- [x] [pfsense firewall configuration](https://github.com/CoTheCoder/soc-homelab/tree/main/pfsense-firewall-setup)
+- [x] [Active Directory Lab](https://github.com/CoTheCoder/soc-homelab/tree/main/active-directory-lab)
+- [x] [SIEM deployment](https://github.com/CoTheCoder/soc-homelab/tree/main/siem-deployment)
+- [ ] Attack & Detection Lab (Kali vs. Wazuh)
+- [ ] Windows Event Log Tuning
+- [ ] Sample Incident Response Writeup
 
 ## Tech I'm Learning
-`Proxmox` `pfsense` `Active Directory` `SIEM` `Linux` `Networking Fundamentals`
+`Proxmox` `pfsense` `Active Directory` `SIEM` `Linux (Ubuntu Server)` `Networking Fundamentals` `Wazuh` `Windows Sever` `LVM` `Firewall Rules` `Powershell`
 
 ## Connect
 [LinkedIn](https://www.linkedin.com/in/cody-sumner-3330b32a8/) | [Email](mailto:codypsumner4@gmail.com)
